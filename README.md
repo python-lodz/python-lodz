@@ -1,2 +1,4 @@
-# python-lodz
-MeetUp dla programistów Pythona z Łodzi i okolic
+# Python Łódź
+MeetUp dla entuzjastów języka Pythona z Łodzi i okolic
+
+![Python Lodz logo](./python_lodz_logo.png)
