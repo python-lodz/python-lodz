@@ -5,7 +5,9 @@
 Jesteśmy społecznością miłośników języka Python z Łodzi i okolic. Spotykamy przeważnie 1-2 w miesiący,
 w czwartki o 18:00, aby posłuchać prezentacji i podyskutować o naszym ulubionym języku programowania.
 
-Więcej na [www.meetup.com/python-łódź](https://www.meetup.com/python-%C5%82%C3%B3d%C5%BA)
+## Dla uczestników
+
+Zapraszamy do śledzenia kolejnych spotkań na [www.meetup.com/python-łódź](https://www.meetup.com/python-%C5%82%C3%B3d%C5%BA).
 
 ## Dla prelegentów
 Jeżeli chciałbyś zostać prelegentem i podzielić się swoją wiedzą, to zapraszam do zgłaszania propozycji
